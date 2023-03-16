@@ -1,4 +1,4 @@
-[![MasterHead]([[[https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://ibb.co/wLs3Vn9)](https://raw.githubusercontent.com/Rahad23/Rahad23/81843607fc6cb603da78d2f58af2087d21791e3b/MERN-Stack-Web-Developer.png)](https://github.com/Rahad23/Rahad23/blob/81843607fc6cb603da78d2f58af2087d21791e3b/MERN-Stack-Web-Developer.png))]([https://rishavchanda.io](https://tangerine-clafoutis-96e618.netlify.app/blog))
+[![MasterHead](https://ibb.co/wLs3Vn9)](https://tangerine-clafoutis-96e618.netlify.app/)
 <h1 align="center">Hi 👋, I'm MD. Rahad Hasan</h1>
 <h3 align="center">A passionate MERN Stack web developer from Bangladesh</h3>
 
