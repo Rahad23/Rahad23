@@ -1,4 +1,7 @@
-[![MasterHead](<a href="https://github.com/Rahad23">https://i.ibb.co/W3tqZrb/MERN-Stack-Web-Developer.png</a>)](https://tangerine-clafoutis-96e618.netlify.app/)
+<a href="https://github.com/Rahad23">
+[![MasterHead](https://i.ibb.co/W3tqZrb/MERN-Stack-Web-Developer.png)](https://tangerine-clafoutis-96e618.netlify.app/)
+</a>
+
 <h1 align="center">Hi 👋, I'm MD. Rahad Hasan</h1>
 <h3 align="center">A passionate MERN Stack web developer from Bangladesh</h3>
 
